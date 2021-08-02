@@ -1,4 +1,4 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ENGENHARIA DE COMPUTAÇÃO** na <a href="https://www.usf.edu.br/">USF</a>.
