@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ENGENHARIA DE COMPUTAÇÃO** na <a href="https://www.usf.edu.br/">USF</a>.
-- 💼 &nbsp; Trabalhando como **TRANSFORMER** na <a href="https://labsit.io/">LABSIT</a>
+- 💼 &nbsp; Trabalhando como **ENGENHEIRO DE SOFTWARE TRAINEE** na <a href="https://labsit.io/">LABSIT</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT, GO E ANGULAR**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
