@@ -1,18 +1,43 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ENGENHARIA DE COMPUTAÇÃO** na <a href="https://www.usf.edu.br/">USF</a>.
-- 💼 &nbsp; Trabalhando como **ENGENHEIRO DE SOFTWARE TRAINEE** na <a href="https://labsit.io/">LABSIT</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT, GO E ANGULAR**.
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+```kotlin
+object PEDRO ZAGO {
+ val name = "PEDRO DE CAMARGO ZAGO"
+ 
+ val languages = listOf("Java", "JavaScript", "Golang", "Angular") 
+}
+```
 
-**Aplicações e Dados**
+## **Linguagens e Ferramentas:**  
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/PedroZago">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZago&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/PedroZago">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroZago&show_icons=true&theme=dracula&line_height=27" alt="PEDRO ZAGO"/>
+</a>
+
+[instagram]: https://www.instagram.com/pedro.czago/
+[linkedin]: https://www.linkedin.com/in/pedro-de-camargo-zago/
+
+<br>
+
+#### Rede Sociais!
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
