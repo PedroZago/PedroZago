@@ -2,12 +2,11 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object PEDRO ZAGO {
- val name = "PEDRO DE CAMARGO ZAGO"
- 
- val languages = listOf("JavaScript", "TypeScript", "Golang")
- val frameworks = listOf("React", "Angular", "Gin")
+```typescript
+const PEDRO_ZAGO = {
+ name: "PEDRO DE CAMARGO ZAGO",
+ languages: ["JavaScript", "TypeScript", "Golang"],
+ frameworks: ["React", "Angular", "Gin"],
 }
 ```
 
