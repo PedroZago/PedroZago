@@ -5,8 +5,8 @@
 ```typescript
 const PEDRO_ZAGO = {
  name: "PEDRO DE CAMARGO ZAGO",
- languages: ["JavaScript", "TypeScript", "Golang"],
- frameworks: ["React", "Angular", "Gin"],
+ languages: ["JavaScript", "TypeScript"],
+ frameworks: ["React", "React Native", "Angular"],
 }
 ```
 
